@@ -3,8 +3,10 @@
 
 ## Information about me
 Name: Arina Pozharskaya
-Studying group: 24б06
-tg: @twanbah
+
+Studying group: 24б06  
+
+tg: @twanbah  
 
 ## 🤓 Course overview and learning outcomes 
 
