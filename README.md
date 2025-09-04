@@ -6,7 +6,7 @@ Name: Arina Pozharskaya
 
 Studying group: 24б06  
 
-tg: @twanbah  
+telegram: @twanbah  
 
 ## 🤓 Course overview and learning outcomes 
 
