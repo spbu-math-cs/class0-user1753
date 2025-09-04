@@ -2,9 +2,9 @@
 # :wave: The Basics of GitHub 
 
 ## Information about me
-Name: Arina Pozharskaya
+name: Arina Pozharskaya
 
-Studying group: 24б06  
+studying group: 24б06  
 
 telegram: @twanbah  
 
